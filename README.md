@@ -60,14 +60,10 @@ CarePal aims to provide a discreet, accessible digital space for individuals to 
    ```bash
    npm run dev
    ```
-Visit: [http://localhost:5173](http://localhost:5173)
-
----
 
 ## 🌍 Live Demo
 
 [View CarePal on Netlify](https://685bb2c7acf12ca29241cc96--caerpal.netlify.app/)  
-
 
 ---
 
